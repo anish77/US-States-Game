@@ -1,0 +1,8 @@
+[project]
+name = "us-states-game"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "panda>=0.3.1",
+    "pandas>=3.0.5",
+]
